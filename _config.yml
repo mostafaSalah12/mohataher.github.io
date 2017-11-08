@@ -2,7 +2,7 @@
 title: Mohamed Taher Alrefaie's blog
 description: Interesting thoughts, decent code and critics of the tech world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mohataher.github.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://mohataher.github.com" # the base hostname & protocol for your site 
 
 # User settings
 username: Mohamed Taher Alrefaie
