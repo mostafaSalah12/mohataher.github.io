@@ -1,12 +1,12 @@
 # Site settings
-title: Mohamed Taher Alrefaie's blog
-description: Interesting thoughts, decent code and critics of the tech world.
+title: "Mohamed Taher Alrefaie's blog"
+description: "Interesting thoughts, decent code and critics of the tech world."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mohataher.github.com" # the base hostname & protocol for your site
 
 # User settings
 username: Mohamed Taher Alrefaie
-user_description: Data Engineer
+user_description:  ""
 user_title: Data Engineer
 email: m.taher@msn.com
 github_username:  mohataher
